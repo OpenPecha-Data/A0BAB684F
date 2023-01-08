@@ -1,0 +1,22 @@
+id: A0BAB684F
+title: 'The Melodious Song of Immortality: A Prayer for Long Life'
+type: translation
+pechas:
+- IB0450995
+- IBA3622C2
+- I9A8848F5
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:09:07.667965
+  last_modified_at: 2023-01-04 13:09:07.667973
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IB0450995/B82A: '1874'
+  IBA3622C2/D412: '1874'
+  I9A8848F5/D593: '1874'
